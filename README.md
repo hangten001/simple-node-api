@@ -1,1 +1,3 @@
-# simple-node-api
+-   npm init -y
+-   npm i express
+-   npm i nodemon -D
